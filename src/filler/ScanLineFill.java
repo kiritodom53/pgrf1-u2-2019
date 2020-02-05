@@ -11,6 +11,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class ScanLineFill implements IFiller {
+    // Dodělat, je to docela pokurvené
     private class Line {
         private Point a, b; //k, g
 
